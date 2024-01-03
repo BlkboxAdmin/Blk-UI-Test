@@ -1,0 +1,14 @@
+{
+	"id": "1",
+	"username": "LostAndFound",
+	"email": "example@email.com",
+	"fullname": "Sheikh Daniyal Ali",
+	"image": "user117x117",
+	"bio": "Artist, producer, Engineer\nIve worked with many artist and have credits on various albums",
+	"phone": "(234) 324 - 2345",
+	"dob": "2022-11-02 13:49:17 +0000",
+	"show_online": 1,
+	"push_notification": 0,
+	"sms_notification": 0,
+	"email_notification": 1
+}

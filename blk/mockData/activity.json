@@ -1,0 +1,7 @@
+[
+	{ "id": 1, "type": "Any activity", "desc": "You followed Jay Anthony..\nyou posted on Jay’s most recent frame", "user_id": 1, "template_id": 1, "created_on": "", "status": "Active"},
+	{ "id": 2, "type": "Any activity", "desc": "You answered Angelas post in the Talks with \"most people would thi...\"", "user_id": 1, "template_id": 1, "created_on": "", "status": "Active"},
+	{ "id": 3, "type": "Any activity", "desc": "You’ve like 17 tiles, 45 frames and commented on...", "user_id": 1, "template_id": 1, "created_on": "", "status": "Active"},
+	{ "id": 4, "type": "Any activity", "desc": "You followed Jay Anthony..\nyou posted on Jay’s most recent frame", "user_id": 1, "template_id": 1, "created_on": "", "status": "Active"},
+	{ "id": 5, "type": "Any activity", "desc": "You answered Angelas post in the Talks with \"most people would thi...\"", "user_id": 1, "template_id": 1, "created_on": "", "status": "Active"}
+]

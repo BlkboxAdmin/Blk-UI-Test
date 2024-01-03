@@ -1,0 +1,73 @@
+[
+	{
+		"id": 1,
+		"fullname": "Prince Daniel",
+		"image": "user1-60x60",
+		"last_activity_on": "2022-11-02 13:49:17 +0000",
+		"created_by": 1,
+		"updated_on": "2022-11-02 13:49:17 +0000",
+		"created_on": "2022-11-02 13:49:17 +0000",
+		"status": "Active"
+	},
+	{
+		"id": 2,
+		"fullname": "Demar Hardnett",
+		"image": "user2-60x60",
+		"last_activity_on": "2022-11-02 13:49:17 +0000",
+		"created_by": 1,
+		"updated_on": "2022-11-02 13:49:17 +0000",
+		"created_on": "2022-11-02 13:49:17 +0000",
+		"status": "Active"
+	},
+	{
+		"id": 3,
+		"fullname": "Jaden Velez",
+		"image": "user3-60x60",
+		"last_activity_on": "2022-11-02 13:49:17 +0000",
+		"created_by": 1,
+		"updated_on": "2022-11-02 13:49:17 +0000",
+		"created_on": "2022-11-02 13:49:17 +0000",
+		"status": "Active"
+	},
+	{
+		"id": 4,
+		"fullname": "Derek Dunn",
+		"image": "user4-60x60",
+		"last_activity_on": "2022-11-02 13:49:17 +0000",
+		"created_by": 1,
+		"updated_on": "2022-11-02 13:49:17 +0000",
+		"created_on": "2022-11-02 13:49:17 +0000",
+		"status": "Active"
+	},
+	{
+		"id": 5,
+		"fullname": "King Ronald",
+		"image": "user1-60x60",
+		"last_activity_on": "2022-11-02 13:49:17 +0000",
+		"created_by": 1,
+		"updated_on": "2022-11-02 13:49:17 +0000",
+		"created_on": "2022-11-02 13:49:17 +0000",
+		"status": "Active"
+	},
+	{
+		"id": 6,
+		"fullname": "Kyrie Reign Beauty",
+		"image": "user2-60x60",
+		"last_activity_on": "2022-11-02 13:49:17 +0000",
+		"created_by": 1,
+		"updated_on": "2022-11-02 13:49:17 +0000",
+		"created_on": "2022-11-02 13:49:17 +0000",
+		"status": "Active"
+	},
+	{
+		"id": 7,
+		"fullname": "Cameron Drake",
+		"image": "user3-60x60",
+		"last_activity_on": "2022-11-02 13:49:17 +0000",
+		"created_by": 1,
+		"updated_on": "2022-11-02 13:49:17 +0000",
+		"created_on": "2022-11-02 13:49:17 +0000",
+		"status": "Active"
+	}
+]
+

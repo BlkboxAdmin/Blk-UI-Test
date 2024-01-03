@@ -1,0 +1,86 @@
+[
+	{
+		"id": 1,
+		"message_text": "I cant belive what they did to you so sorry you had to go thru that!!",
+		"is_other_user_msg": true,
+		"name": "Prince Daniel",
+		"image": "user1-60x60",
+		"thread_id": 1,
+		"created_by": 2,
+		"updated_on": "2022-11-02 13:49:17 +0000",
+		"created_on": "2022-11-02 13:49:17 +0000",
+		"status": "Active"
+	},
+	{
+		"id": 2,
+		"message_text": "Yes, but it was expected im just happy its over now.",
+		"is_other_user_msg": false,
+		"name": "Anthony Nelson",
+		"image": "user-pic-39x39",
+		"thread_id": 1,
+		"created_by": 1,
+		"updated_on": "2022-11-02 13:49:17 +0000",
+		"created_on": "2022-11-02 13:49:17 +0000",
+		"status": "Active"
+	},
+	{
+		"id": 3,
+		"message_text": "So after rewatching the last episode of raising kanan i have a few questions, why'd it take sal so long to respond do you guys think that in season 3 we'll...",
+		"is_other_user_msg": false,
+		"name": "Anthony Nelson",
+		"image": "user-pic-39x39",
+		"thread_id": 1,
+		"created_by": 1,
+		"updated_on": "2022-11-02 13:49:17 +0000",
+		"created_on": "2022-11-02 13:49:17 +0000",
+		"status": "Active"
+	},
+	{
+		"id": 4,
+		"message_text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simpl",
+		"is_other_user_msg": false,
+		"name": "Anthony Nelson",
+		"image": "user-pic-39x39",
+		"thread_id": 1,
+		"created_by": 1,
+		"updated_on": "2022-11-02 13:49:17 +0000",
+		"created_on": "2022-11-02 13:49:17 +0000",
+		"status": "Active"
+	},
+	{
+		"id": 5,
+		"message_text": "\"You don't own shit , you're renting from me lou . I've bought and I've sold you a hundred times over son\" 😭😭😭 Raq mean as hell lmaoooo",
+		"is_other_user_msg": false,
+		"name": "Anthony Nelson",
+		"image": "user-pic-39x39",
+		"thread_id": 1,
+		"created_by": 1,
+		"updated_on": "2022-11-02 13:49:17 +0000",
+		"created_on": "2022-11-02 13:49:17 +0000",
+		"status": "Active"
+	},
+	{
+		"id": 6,
+		"message_text": "I cant belive what they did to you so sorry you had to go thru that!!",
+		"is_other_user_msg": true,
+		"name": "Prince Daniel",
+		"image": "user1-60x60",
+		"thread_id": 1,
+		"created_by": 2,
+		"updated_on": "2022-11-02 13:49:17 +0000",
+		"created_on": "2022-11-02 13:49:17 +0000",
+		"status": "Active"
+	},
+	{
+		"id": 7,
+		"message_text": "I cant belive what they did to you so sorry you had to go thru that!!",
+		"is_other_user_msg": true,
+		"name": "Prince Daniel",
+		"image": "user1-60x60",
+		"thread_id": 1,
+		"created_by": 2,
+		"updated_on": "2022-11-02 13:49:17 +0000",
+		"created_on": "2022-11-02 13:49:17 +0000",
+		"status": "Active"
+	}
+]
